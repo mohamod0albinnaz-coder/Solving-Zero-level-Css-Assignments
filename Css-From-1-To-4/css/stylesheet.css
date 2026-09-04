@@ -1,4 +1,37 @@
-*{
-   margin: 0;
-   padding: 0;
-}
+/* تكليف1 */
+/* Any Element With Class Title */
+/* .title {} */
+/* Any Element With id Title */
+/* #nav {} */
+/* Any Element div */
+/* div {} */
+/* Any Element h2  */
+/* h2 {} */
+
+/* تكليف5 */
+/* vaild */
+/* ._user-name {} */
+/* vaild */
+/* .-user-name {} */
+/* not vaild */
+/* .1user-name {} */
+/* not vaild */
+/* .@user-name {} */
+/* not vaild */
+/* .user@name {} */
+/* not vaild */
+/* ._user10name {} */
+/* not vaild */
+/* .u {} */
+
+/* تكليف6 */
+/* bad */
+/* .USERNAME {} */
+/* good */
+/* .UserName {} */
+/* good */
+/* .user-name {} */
+/* good */
+/* .userName {} */
+/* bad */
+/* .usernameprofile {} */
